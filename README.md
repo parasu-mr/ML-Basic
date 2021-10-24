@@ -1,10 +1,8 @@
 # ML-Basic
-Basic ML projects
+# My repo for INSAID course projects
 
-- point 1
-- point 2
+## My projects at INSAID
 
-___ 
-```
-print ("Hello World")
-```
+| No | Title |
+| :------------: | :------------: |
+| 1. | Customer Segmentation using Logistic Regression |
