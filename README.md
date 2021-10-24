@@ -1,8 +1,5 @@
-# ML-Basic
-# My repo for INSAID course projects
-
 ## My projects at INSAID
 
-| No | Title |
+| **No** | **Title** |
 | :------------: | :------------: |
-| 1. | Customer Segmentation using Logistic Regression |
+| 1. | [Customer Segmentation using Logistic Regression](https://github.com/parasu-mr/ML-Basic/tree/main/Customer-Segmentation "Customer Segmentation using Logistic Regression") |
